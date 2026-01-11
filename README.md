@@ -1,6 +1,6 @@
 # Currency Converter | React + TailwindCSS
 
-A clean Currency Converter built using React and TailwindCSS with fetch API.
+A clean Currency Converter built using React and TailwindCSS with Axios.
 
 ### Languages used
 
