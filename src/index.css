@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+    body {
+        @apply w-full bg-purple-500 text-white flex justify-center items-center p-5;
+    }
+}
